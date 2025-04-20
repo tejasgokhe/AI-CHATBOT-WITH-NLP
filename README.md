@@ -40,4 +40,6 @@ Platform Used:- Visual Studio Code.
 
 ##OUTPUT:-
 
+![Image](https://github.com/user-attachments/assets/01c07748-f7fa-4475-9613-a7af93aa6f4d)
+
 
